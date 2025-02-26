@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "core_servers": [
+        "sentry",
+        "time",
+        "sqlite",
+        "git",
+        "fetch"
+    ],
+    "server_categories": [
+        "core",
+        "community",
+        "extensions"
+    ]
+}
